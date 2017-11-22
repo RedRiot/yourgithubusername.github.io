@@ -12,15 +12,17 @@ body{
 .nav{
 
   text-align: right;
-  padding-top: 20px;
+
   padding-right: 10%;
   padding-left: 10%;
   background-color: #333333;
   height: 60px;
+
 }
 .nav ul {
   display: block;
   list-style-type: none;
+
 }
 
 .nav li{
@@ -32,11 +34,12 @@ body{
 
 
 
+
 }
 .nav img{
-  width: 50px;
-  float:left
-
+  width: 45px;
+  float:left;
+  margin:5px;
 }
 .nav a{
 
